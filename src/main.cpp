@@ -169,5 +169,5 @@ void loop(){
   }
   else sendHtml(client,h,T);
 
-  client.stop();
+  client.stop();;
 }
